@@ -1,20 +1,21 @@
-### Recipe. 
+### 7X flavoring formula:
 
-* Fluid extract of coca: 3 drams USP
-* Citric acid: 3 oz
-* Caffeine: 1 oz
-* Sugar: 30 (unclear quantity, possibly pounds)
-* Water: 2.5 gallons
-* Lime juice: 2 pints, 1 quart
-* Vanilla: 1 oz
-* Caramel: 1.5 oz or more to colour
+* orange oil: 3.50 ml
+* lemon oil: 1.00 ml
+* nutmeg oil: 1.00 ml
+* cassia oil: 1.25 ml
+* coriander oil: 0.25 ml
+* neroli oil: 0.25 ml
+* lime oil: 2.75 ml
+* lavender oil: 0.25 ml
+* gum arabic: 10.0 g
+* water: 3.00 ml
 
-#### Into every five gallons of syrup, add 2oz of the following seven-part flavouring:
+### OpenCola syrup:
 
-* Alcohol: 8 oz
-* Orange oil: 20 drops
-* Lemon oil: 30 drops
-* Nutmeg oil: 10 drops
-* Coriander oil : 5 drops
-* Neroli oil: 10 drops
-* Cinnamon oil: 10 drops
+* 7X formula: 2.00 tsp.
+* 75% phosphoric acid or citric acid: 3.50 tsp.
+* water: 2.28 l
+* plain granulated white table sugar: 2.36 kg
+* caffeine (optional): 0.50 tsp.
+* caramel color: 30.0 ml
