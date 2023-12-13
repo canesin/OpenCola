@@ -1,7 +1,7 @@
 ### The Coca-Cola secret recipe. 
 > "Many third parties have tried to crack our secret formula. Try as they might, they've been unsuccessful," Coca-Cola's Kerry Tressler
 
-Here are the Coca-Cola instructions from [This American Life.](http://www.thisamericanlife.org/radio-archives/episode/427/original-recipe/recipe)
+Here are the Coca-Cola instructions from [This American Life.](https://archive.ph/PoLc1)
 
 
 #### Cube-Cola     
