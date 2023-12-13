@@ -3,13 +3,12 @@
 
 Here are the Coca-Cola instructions from [This American Life.](https://archive.ph/PoLc1)
 
+#### Cube-Cola
+* [Cube-Cola](http://sparror.cubecinema.com/cube/cola/)
+* [Ingredients](http://sparror.cubecinema.com/cube/cola/finance/)
+* [Original Ingredients / Recipe](https://archive.ph/sThKU)
+* [Cube-Cola KIT VERSION 2.0](http://sparror.cubecinema.com/cube/cola/kit/)
 
-#### Cube-Cola     
-* [Cube-Cola](http://sparror.cubecinema.com/cube/cola/)           
-* [Ingredients](http://sparror.cubecinema.com/cube/cola/finance/)           
-* [Original Ingredients / Recipe](http://sparror.cubecinema.com/cube/cola/cola_ingredients/)                      
-* [Cube-Cola KIT VERSION 2.0](http://sparror.cubecinema.com/cube/cola/kit/)    
-
-#### OpenCola     
-[OpenCola](http://www.colawp.com/colas/400/cola467_recipe.html) is an open source Coca-Cola project worth looking into. 
+#### OpenCola
+[OpenCola](http://www.colawp.com/colas/400/cola467_recipe.html) is an open source Coca-Cola project worth looking into.
 
